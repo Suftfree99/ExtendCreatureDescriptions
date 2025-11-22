@@ -1,2 +1,3 @@
+- Added English localization
 A modification that adds an expanded picture when clicking on a creature and a description of the creature.
 - When you click on each monster, there is a separate big picture!
